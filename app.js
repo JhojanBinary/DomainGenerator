@@ -2,6 +2,8 @@ let pronoun = ['el', 'las', 'nuestra', 'los'];
 let adj = ['malas', 'grandes'];
 let noun = ['modelo', 'mano'];
 
+// Función para generar todas las combinaciones de nombres de dominio
+
 function generateDomainNames() {
     let domainNames = [];
 
